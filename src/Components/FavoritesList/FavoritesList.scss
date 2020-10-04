@@ -1,0 +1,41 @@
+.favorites-list{
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 50px;
+
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 250px;
+  height: 400px;
+  background-color: white;
+  box-shadow: 0 1px 6px 0 rgba(112, 112, 112, 1);
+  margin: 25px 15px;
+  border-radius: 10px;
+  &-name{
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+    font-family: sans-serif;
+  }
+  &-price{
+    font-size: 15px;
+    font-weight: bold;
+  }
+  &-img{
+    width: 100%;
+    border-radius: 10px;
+  }
+  &-price-button{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+  }
+  &-price{
+    margin-left: 10px;
+  }
+
+}

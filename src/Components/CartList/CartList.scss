@@ -1,0 +1,31 @@
+.cart{
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  margin: 25px 15px;
+  align-items: center;
+  width: 250px;
+  height: 400px;
+  box-shadow: 0 1px 6px 0 rgba(112, 112, 112, 1);
+  border-radius: 4px;
+  &-image{
+    width: 100%;
+    border-radius: 4px;
+  }
+  &-name{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: black;
+    font-weight: bold;
+  }
+  &-price{
+    font-size: 14px;
+    font-weight: bold;
+  }
+  &-list{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 30px;
+  }
+
+}

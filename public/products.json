@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Book 1",
+    "price": "14.99",
+    "path": "./img/image1.png",
+    "number": 0,
+    "color": "black"
+  },
+  {
+    "name": "Book 2",
+    "price": "47.59",
+    "path": "./img/image2.png",
+    "number": 1,
+    "color": "black"
+  },
+  {
+    "name": "Book 3",
+    "price": "8.99",
+    "path": "./img/image3.png",
+    "number": 2,
+    "color": "black"
+  },
+  {
+    "name": "Book 4",
+    "price": "22.99",
+    "path": "./img/image4.png",
+    "number": 3,
+    "color": "black"
+  },
+  {
+    "name": "Book 5",
+    "price": "24.99",
+    "path": "./img/image5.png",
+    "number": 4,
+    "color": "black"
+  },
+  {
+    "name": "Book 6",
+    "price": "17.99",
+    "path": "./img/image6.png",
+    "number": 5,
+    "color": "black"
+  },
+  {
+    "name": "Book 7",
+    "price": "27.59",
+    "path": "./img/image7.png",
+    "number": 6,
+    "color": "black"
+  },
+  {
+    "name": "Book 8",
+    "price": "38.99",
+    "path": "./img/image8.png",
+    "number": 7,
+    "color": "black"
+  },
+  {
+    "name": "Book 9",
+    "price": "22.99",
+    "path": "./img/image9.png",
+    "number": 8,
+    "color": "black"
+  },
+  {
+    "name": "Book 10",
+    "price": "16.99",
+    "path": "./img/image10.png",
+    "number": 9,
+    "color": "black"
+  }
+]
